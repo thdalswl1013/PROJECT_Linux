@@ -17,25 +17,25 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 # 🌟add
 ![image2](https://user-images.githubusercontent.com/110325367/229280412-e2d35f90-a320-4cae-ac84-3815b82e0d38.png)
 
-🌟**addi**<br><br>
+# 🌟addi
 ![image2](https://user-images.githubusercontent.com/110325367/229280457-0ca75d24-8cf9-4265-991e-d8aeec16a81d.png)
 ![image2](https://user-images.githubusercontent.com/110325367/229280498-b67321bb-e777-4c8a-a98b-4981341702d0.png)
 
 
-🌟**Id**<br><br>
+# 🌟Id
 ![image3](https://user-images.githubusercontent.com/110325367/229280576-d87d7b1f-0067-43ca-9421-e38beb0eff5e.png)
 
-🌟**sd**<br><br>
+# 🌟sd
 ![image4](https://user-images.githubusercontent.com/110325367/229280611-b7edb61a-d4eb-4422-a316-98cc54cc37ee.png)
 
 
-🌟**beq**<br><br>
+# 🌟beq
 ![image5](https://user-images.githubusercontent.com/110325367/229280715-d9b28e7d-745d-4fba-9121-51c8f4c375cf.png)
 
-🌟**jal**<br><br>
+# 🌟jal
 ![image4](https://user-images.githubusercontent.com/110325367/229280772-5d071242-42c9-4c9e-aadf-9f1203e4d91a.png)
 
 
-🌟**jalr**<br><br>
+# 🌟jalr
 ![image5](https://user-images.githubusercontent.com/110325367/229280808-eb7480cf-1248-4503-a5ac-a72e90f3d145.png)
 
