@@ -1,7 +1,8 @@
 
 # RISC-V simulator
 
-single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고자 하였다. <br>
+single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고자 하였다. 
+<br><br>
 
 🌟**구현 일정**<br><br>
 
