@@ -31,3 +31,11 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 
 🌟**beq**<br><br>
 ![image5](https://user-images.githubusercontent.com/110325367/229280715-d9b28e7d-745d-4fba-9121-51c8f4c375cf.png)
+
+🌟**jal**<br><br>
+![image4](https://user-images.githubusercontent.com/110325367/229280772-5d071242-42c9-4c9e-aadf-9f1203e4d91a.png)
+
+
+🌟**jalr**<br><br>
+![image5](https://user-images.githubusercontent.com/110325367/229280808-eb7480cf-1248-4503-a5ac-a72e90f3d145.png)
+
