@@ -9,7 +9,7 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 ![image1](https://user-images.githubusercontent.com/110325367/229275979-24cb151d-3fdf-49aa-bbc8-45e079f40492.png)
 
 
-🌟**구현 목표**<br>
+🌟**구현 목표**<br><br>
 
 * 일정 생성, 삭제, 읽어주기 등의 다양한 기능을 실행 할 수 있는 프레임 구축
 
