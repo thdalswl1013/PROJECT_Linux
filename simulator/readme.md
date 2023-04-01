@@ -29,4 +29,5 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 ![image4](https://user-images.githubusercontent.com/110325367/229280611-b7edb61a-d4eb-4422-a316-98cc54cc37ee.png)
 
 
-🌟**WB(Write Back)**<br><br>
+🌟**beq**<br><br>
+![image5](https://user-images.githubusercontent.com/110325367/229280715-d9b28e7d-745d-4fba-9121-51c8f4c375cf.png)
