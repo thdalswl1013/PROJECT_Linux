@@ -25,6 +25,8 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 🌟**Id**<br><br>
 ![image3](https://user-images.githubusercontent.com/110325367/229280576-d87d7b1f-0067-43ca-9421-e38beb0eff5e.png)
 
-🌟**MEM(Memory)**<br><br>
+🌟**sd**<br><br>
+![image4](https://user-images.githubusercontent.com/110325367/229280611-b7edb61a-d4eb-4422-a316-98cc54cc37ee.png)
+
 
 🌟**WB(Write Back)**<br><br>
