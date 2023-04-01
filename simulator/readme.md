@@ -17,6 +17,10 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 🌟**add**<br><br>
 ![image2](https://user-images.githubusercontent.com/110325367/229280412-e2d35f90-a320-4cae-ac84-3815b82e0d38.png)
 
+🌟**addi**<br><br>
+![image2](https://user-images.githubusercontent.com/110325367/229280457-0ca75d24-8cf9-4265-991e-d8aeec16a81d.png)
+![image2](https://user-images.githubusercontent.com/110325367/229280498-b67321bb-e777-4c8a-a98b-4981341702d0.png)
+
 
 🌟**EX(Execute)**<br><br>
 
