@@ -10,7 +10,7 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 
 <br><br>
 
-🌟**IF(Instruction Fetch)**<br><br>
+🌟#IF(Instruction Fetch)
 ![image1](https://user-images.githubusercontent.com/110325367/229280302-f8d73cae-7aef-446f-b1eb-3413d8612915.png)
 
 
