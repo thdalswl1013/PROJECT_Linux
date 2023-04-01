@@ -12,6 +12,7 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 
 # 🌟IF(Instruction Fetch)
 instruction 메모리 상의 명령어는 pc(program counter)에 저장이 되어있으며, 이 명령어를 찾아온 후에는 다음 주소를 가리키기 위하여 pc+4를 해준다
+
 ![image1](https://user-images.githubusercontent.com/110325367/229280302-f8d73cae-7aef-446f-b1eb-3413d8612915.png)
 
 
