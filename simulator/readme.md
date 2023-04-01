@@ -22,7 +22,8 @@ single cycle 프로그램을 리눅스 개발환경에서 직접 구현해보고
 ![image2](https://user-images.githubusercontent.com/110325367/229280498-b67321bb-e777-4c8a-a98b-4981341702d0.png)
 
 
-🌟**EX(Execute)**<br><br>
+🌟**Id**<br><br>
+![image3](https://user-images.githubusercontent.com/110325367/229280576-d87d7b1f-0067-43ca-9421-e38beb0eff5e.png)
 
 🌟**MEM(Memory)**<br><br>
 
